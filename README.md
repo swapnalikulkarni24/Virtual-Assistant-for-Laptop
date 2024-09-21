@@ -1,6 +1,5 @@
 # Virtual-Assistant-for-Laptop
 Virtual Assistant for Laptop using Python, Tkinter, and various libraries like speech_recognition and pyttsx3 for voice input/output. It automates tasks such as opening apps, fetching weather, and more, responding based on user commands.
-# Virtual Assistant for Laptop
 # Overview
 This project is a Virtual Assistant for Laptop developed using Python. It provides an interactive and intuitive way to manage various tasks through voice commands and a graphical user interface.
 # Features
